@@ -8,3 +8,6 @@ Key Insights
 • October generated the highest monthly sales (€21.7M).
 
 • United States and Canada are the top-performing countries.
+
+<img width="1302" height="730" alt="image" src="https://github.com/user-attachments/assets/174589cd-b701-469d-a0ce-dc670e2bf85e" />
+
