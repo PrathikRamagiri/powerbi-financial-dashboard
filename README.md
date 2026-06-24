@@ -8,6 +8,8 @@ Key Insights
 • October generated the highest monthly sales (€21.7M).
 
 • United States and Canada are the top-performing countries.
+
+
 ------------------------------------------------------------------------------------------------------------------------
 # Financial Performance Dashboard
 
